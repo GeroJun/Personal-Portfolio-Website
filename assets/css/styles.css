@@ -316,7 +316,13 @@ img {
 }
 
 /* Active link */
+.active-link{
+    color: var(--white-color);
+}
 
+.active-link::after{
+  width: 25%;
+}
 
 /*=============== HOME ===============*/
 .home__container{
@@ -371,7 +377,6 @@ img {
   right: -4rem;
   bottom: -.5rem;
 }
-
 
 .home__perfil .geometric-box{
   top: 2.5rem;
