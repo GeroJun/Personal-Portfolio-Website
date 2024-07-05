@@ -15,5 +15,4 @@ am hoping to use to be able to initiate communication with different programmers
 **Remixicon** - for different icons to decorate the text.
 
 # Credit
-**Bedimcode:** resource to be able to complete this project.
-//Bedimcode is an amazing resource, and I can recommend it to anyone :D
+**Bedimcode:** resource to be able to complete this project. 
