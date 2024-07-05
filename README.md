@@ -5,9 +5,9 @@ implemented a function to be able to send gmails through this website, which I
 am hoping to use to be able to initiate communication with different programmers.
 
 # Preview
-<img align="right" src=""/>
+<img src="/preview.png" width = "2000"/>
 
-# Technogoloies used:
+# Technologies used:
 **CSS** - for the design and response of website. <br/>
 **JavaScript** - for the back-end and different functions. <br/>
 **HTML** - for the layour and structure of the website. <br/>
@@ -15,4 +15,5 @@ am hoping to use to be able to initiate communication with different programmers
 **Remixicon** - for different icons to decorate the text.
 
 # Credit
-Bedimcode: resource to be able to complete this project.
+**Bedimcode:** resource to be able to complete this project.
+//Bedimcode is an amazing resource, and I can recommend it to anyone :D
