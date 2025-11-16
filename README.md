@@ -7,10 +7,6 @@
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [![EmailJS](https://img.shields.io/badge/EmailJS-3498DB?style=flat)](https://www.emailjs.com/)
 
-## 🔗 Live Demo
-
-**[View Live Portfolio](https://gerojun.github.io/Personal-Portfolio-Website/)** — *Hosted on GitHub Pages*
-
 ## 🎯 Overview
 
 This is my personal portfolio website designed to present my professional brand to recruiters and hiring managers. The site demonstrates my ability to create polished, user-friendly web experiences while showcasing:
@@ -205,7 +201,6 @@ form.addEventListener('submit', (e) => {
 
 Planned improvements to expand functionality:
 
-- [ ] **Dark/Light Mode Toggle** - Theme switcher for user preference
 - [ ] **Blog Section** - Technical writing and project deep-dives
 - [ ] **Project Filtering** - Sort projects by technology or category
 - [ ] **Animation Library** - Subtle animations using Intersection Observer
